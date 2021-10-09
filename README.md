@@ -1,9 +1,10 @@
 # clon_netflix
 
 This is a clone of the main Netflix interface, made as a first Flutter practice
-
+<p>
 <img height="300" src="./Screenshot_1633794140.png" />
 <img height="300" src="./Screenshot_1633794310.png" />
+<p/>
 
 
 ## Getting Started
