@@ -1,6 +1,10 @@
 # clon_netflix
 
-A new Flutter project.
+This is a clone of the main Netflix interface, made as a first Flutter practice
+
+<img height="150" src="./Screenshot_1633794140.png" />
+<img height="150" src="./Screenshot_1633794310.png" />
+
 
 ## Getting Started
 
